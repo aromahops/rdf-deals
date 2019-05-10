@@ -1,0 +1,92 @@
+2019-05-08 06:02:32,503 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): forums.redflagdeals.com:80
+2019-05-08 06:02:34,308 - urllib3.connectionpool - DEBUG - http://forums.redflagdeals.com:80 "GET /hot-deals-f9/ HTTP/1.1" 200 33633
+2019-05-08 06:02:34,582 - root - INFO - [MyProtein] MyProtein - 37% Off Everything PLUS Additional 40% OFF COUPON CODE VIT20
+2019-05-08 06:02:34,582 - root - INFO - 57
+2019-05-08 06:02:34,658 - root - INFO - May 7th, 2019 7:36 pm
+2019-05-08 06:02:34,658 - root - INFO - 2019-05-07 19:36:00
+2019-05-08 06:02:34,658 - root - INFO - 2019-05-08 06:02:34
+2019-05-08 06:02:34,658 - root - INFO - http://forums.redflagdeals.com/myprotein-myprotein-37-off-everything-plus-additional-40-off-coupon-code-vit20-2283452/
+2019-05-08 06:02:34,888 - root - INFO - SQL Inserted: [MyProtein] MyProtein - 37% Off Everything PLUS Additional 40% OFF COUPON CODE VIT20
+2019-05-08 06:02:34,889 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:37,418 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:37,423 - root - DEBUG - b'200'
+2019-05-08 06:02:37,428 - root - INFO - Loblaws Join PC Insiders get 50,000 PCOptimum Points (NO QC) + 50% off code
+2019-05-08 06:02:37,428 - root - INFO - 68
+2019-05-08 06:02:37,429 - root - INFO - May 6th, 2019 9:04 am
+2019-05-08 06:02:37,429 - root - INFO - 2019-05-06 09:04:00
+2019-05-08 06:02:37,430 - root - INFO - 2019-05-08 06:02:37
+2019-05-08 06:02:37,430 - root - INFO - http://forums.redflagdeals.com/loblaws-join-pc-insiders-get-50-000-pcoptimum-points-no-qc-50-off-code-2283123/
+2019-05-08 06:02:37,610 - root - INFO - SQL Inserted: Loblaws Join PC Insiders get 50,000 PCOptimum Points (NO QC) + 50% off code
+2019-05-08 06:02:37,615 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:38,575 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:38,581 - root - DEBUG - b'200'
+2019-05-08 06:02:38,582 - root - INFO - Wendy's $5 Baconator's until May 26th
+2019-05-08 06:02:38,583 - root - INFO - 79
+2019-05-08 06:02:38,584 - root - INFO - May 6th, 2019 2:50 pm
+2019-05-08 06:02:38,584 - root - INFO - 2019-05-06 14:50:00
+2019-05-08 06:02:38,585 - root - INFO - 2019-05-08 06:02:38
+2019-05-08 06:02:38,585 - root - INFO - http://forums.redflagdeals.com/wendys-5-baconators-until-may-26th-2283204/
+2019-05-08 06:02:38,770 - root - INFO - SQL Inserted: Wendy's $5 Baconator's until May 26th
+2019-05-08 06:02:38,773 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:39,755 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:39,757 - root - DEBUG - b'200'
+2019-05-08 06:02:39,757 - root - INFO - McDonalds Ontario Only: Free Medium fries from McDonald's when Raptors score 12+ 3-pointers
+2019-05-08 06:02:39,757 - root - INFO - 195
+2019-05-08 06:02:39,758 - root - INFO - Oct 15th, 2018 10:23 am
+2019-05-08 06:02:39,758 - root - INFO - 2018-10-15 10:23:00
+2019-05-08 06:02:39,758 - root - INFO - 2019-05-08 06:02:39
+2019-05-08 06:02:39,758 - root - INFO - http://forums.redflagdeals.com/mcdonalds-ontario-only-free-medium-fries-mcdonalds-when-raptors-score-12-3-pointers-2229905/
+2019-05-08 06:02:39,886 - root - INFO - SQL Inserted: McDonalds Ontario Only: Free Medium fries from McDonald's when Raptors score 12+ 3-pointers
+2019-05-08 06:02:39,893 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:40,956 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:40,969 - root - DEBUG - b'200'
+2019-05-08 06:02:40,972 - root - INFO - [Public Mobile] Public Mobile $13 now includes UNLIMITED INCOMING CALLS
+2019-05-08 06:02:40,973 - root - INFO - 160
+2019-05-08 06:02:40,974 - root - INFO - May 1st, 2019 11:03 am
+2019-05-08 06:02:40,974 - root - INFO - 2019-05-01 11:03:00
+2019-05-08 06:02:40,975 - root - INFO - 2019-05-08 06:02:40
+2019-05-08 06:02:40,975 - root - INFO - http://forums.redflagdeals.com/public-mobile-public-mobile-13-now-includes-unlimited-incoming-calls-2282235/
+2019-05-08 06:02:41,158 - root - INFO - SQL Duplicate Thread: [Public Mobile] Public Mobile $13 now includes UNLIMITED INCOMING CALLS
+2019-05-08 06:02:41,164 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:42,158 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:42,254 - root - DEBUG - b'200'
+2019-05-08 06:02:42,258 - root - INFO - [Manulife] Manulife Bank HISA 182 days 3.25% [on new Advantage Account deposits] ***Updated April 30, 2019***
+2019-05-08 06:02:42,258 - root - INFO - 112
+2019-05-08 06:02:42,259 - root - INFO - Apr 27th, 2019 7:17 am
+2019-05-08 06:02:42,260 - root - INFO - 2019-04-27 07:17:00
+2019-05-08 06:02:42,260 - root - INFO - 2019-05-08 06:02:42
+2019-05-08 06:02:42,261 - root - INFO - http://forums.redflagdeals.com/manulife-bank-hisa-182-days-3-25-new-advantage-account-deposits-updated-april-30-2019-2281288/
+2019-05-08 06:02:42,263 - root - INFO - SQL Duplicate Thread: [Manulife] Manulife Bank HISA 182 days 3.25% [on new Advantage Account deposits] ***Updated April 30, 2019***
+2019-05-08 06:02:42,268 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:43,342 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 530
+2019-05-08 06:02:43,344 - root - DEBUG - b'{"errorMessage": "An error occurred (InvalidParameter) when calling the Publish operation: Invalid parameter: Subject", "errorType": "InvalidParameterException", "stackTrace": ["  File \\"/var/task/lambda_function.py\\", line 49, in lambda_handler\\n    Message = url\\n", "  File \\"/var/runtime/botocore/client.py\\", line 320, in _api_call\\n    return self._make_api_call(operation_name, kwargs)\\n", "  File \\"/var/runtime/botocore/client.py\\", line 623, in _make_api_call\\n    raise error_class(parsed_response, operation_name)\\n"]}'
+2019-05-08 06:02:43,345 - root - INFO - Costco East - GTA Clearance Items Ending in .97 - General Thread
+2019-05-08 06:02:43,345 - root - INFO - 248
+2019-05-08 06:02:43,345 - root - INFO - Nov 24th, 2017 1:23 am
+2019-05-08 06:02:43,345 - root - INFO - 2017-11-24 01:23:00
+2019-05-08 06:02:43,345 - root - INFO - 2019-05-08 06:02:43
+2019-05-08 06:02:43,346 - root - INFO - http://forums.redflagdeals.com/east-gta-clearance-items-ending-97-general-thread-2146900/
+2019-05-08 06:02:43,346 - root - INFO - SQL Duplicate Thread: Costco East - GTA Clearance Items Ending in .97 - General Thread
+2019-05-08 06:02:43,348 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:44,335 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:44,338 - root - DEBUG - b'200'
+2019-05-08 06:02:44,338 - root - INFO - [Fido] 4GB LTE Data Plan $15, BYOD, no contract
+2019-05-08 06:02:44,338 - root - INFO - 297
+2019-05-08 06:02:44,339 - root - INFO - Feb 3rd, 2017 1:30 am
+2019-05-08 06:02:44,339 - root - INFO - 2017-02-03 01:30:00
+2019-05-08 06:02:44,339 - root - INFO - 2019-05-08 06:02:44
+2019-05-08 06:02:44,339 - root - INFO - http://forums.redflagdeals.com/fido-4gb-lte-data-plan-15-byod-no-contract-2078212/
+2019-05-08 06:02:44,380 - root - INFO - SQL Inserted: [Fido] 4GB LTE Data Plan $15, BYOD, no contract
+2019-05-08 06:02:44,382 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:45,319 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:45,325 - root - DEBUG - b'200'
+2019-05-08 06:02:45,328 - root - INFO - [Various Retailers] Gift Card Deals And Discounts (2019)
+2019-05-08 06:02:45,328 - root - INFO - 265
+2019-05-08 06:02:45,329 - root - INFO - Jan 7th, 2019 6:15 am
+2019-05-08 06:02:45,330 - root - INFO - 2019-01-07 06:15:00
+2019-05-08 06:02:45,330 - root - INFO - 2019-05-08 06:02:45
+2019-05-08 06:02:45,331 - root - INFO - http://forums.redflagdeals.com/various-retailers-gift-card-deals-discounts-2019-2255585/
+2019-05-08 06:02:45,385 - root - INFO - SQL Duplicate Thread: [Various Retailers] Gift Card Deals And Discounts (2019)
+2019-05-08 06:02:45,388 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): 0eksosr8jl.execute-api.us-east-1.amazonaws.com:443
+2019-05-08 06:02:46,338 - urllib3.connectionpool - DEBUG - https://0eksosr8jl.execute-api.us-east-1.amazonaws.com:443 "POST /dev HTTP/1.1" 200 3
+2019-05-08 06:02:46,364 - root - DEBUG - b'200'
